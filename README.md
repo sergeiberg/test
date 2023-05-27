@@ -1,3 +1,5 @@
 # Hello, world!
 
-Sphinks are best kittens
+Sphynks are best kittens
+
+27.05.2023
